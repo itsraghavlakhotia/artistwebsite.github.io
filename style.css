@@ -1094,7 +1094,7 @@ footer .follow a{
 	    font-size: 20px;
 	}
 	#page_header p{
-	    font-size: 13px;
+	    font-size: 11px;
 	}
 	#blog1 {
 	    padding: 30px;
@@ -1168,6 +1168,10 @@ footer .follow a{
 	}
 	#product1 .pro {
 	    width: 100%;
+	}
+	#product1 .pro1 img {
+	    width: 215px;
+	    /* border-radius: 20px; */
 	}
 	#banner3 {
 	    padding: 0 20px;
