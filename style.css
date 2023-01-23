@@ -234,6 +234,7 @@ body{
 #description .desciption_text p{
 	text-align: center;
 	color: rgba(203,113,77,1) ;
+	font-size: 14px ;
 }
 #description .desciption_text a{
 	text-decoration: none;
