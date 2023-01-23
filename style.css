@@ -1136,7 +1136,13 @@ footer .follow a{
 	#page_header h2 {
 	    font-size: 17px;
 	}
-	
+	#blog img {
+	    width: 312px;
+	    height: 424px;
+	}
+	#blog p {
+	    width: 312px;
+	}
 	footer h4{
 		font-size: 12px;
 	}
